@@ -1,0 +1,14 @@
+$(document).ready(function(){
+    $(".show-icon").click(function(){
+        if($("#pass").attr("type")=='password'){
+            $(this).css({
+                'color':'black'
+            });
+            $("#pass").attr('type','text');
+        }
+        else{
+            $(this).css({'color':'#ccc'});
+            $("#pass").attr('type','password');
+        }
+    });
+});

@@ -1,0 +1,15 @@
+23-02-06 15:58:12 : Socket Error # 11001<EOL>Host not found.
+23-02-07 15:12:03 : Socket Error # 11001<EOL>Host not found.
+23-02-07 15:12:29 : Socket Error # 11001<EOL>Host not found.
+23-02-28 12:03:25 : Socket Error # 10054<EOL>Connection reset by peer.
+23-04-26 14:19:42 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials k5-20020a170902e90500b00199203a4fa3sm9489867pld.203 - gsmtp<EOL>
+23-04-26 14:20:13 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials y9-20020a170902700900b0019c2b1c4ad4sm1427357plk.6 - gsmtp<EOL>
+23-04-26 14:23:31 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials b3-20020a631b03000000b0050f93a3586fsm9111634pgb.37 - gsmtp<EOL>
+23-04-26 14:24:59 : Message is missing recipient's address
+23-04-26 14:26:13 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials f14-20020a056a00238e00b00640f51801e6sm1500382pfc.159 - gsmtp<EOL>
+23-04-26 14:44:46 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials az6-20020a170902a58600b001a1ca6dc38csm9491023plb.118 - gsmtp<EOL>
+23-04-26 15:46:55 : SSL is not available on this server.
+23-04-26 15:48:55 : SSL is not available on this server.
+23-04-26 16:03:00 : SSL is not available on this server.
+23-04-26 16:11:47 : SSL is not available on this server.
+23-04-26 20:04:49 : Socket Error # 10054<EOL>Connection reset by peer.
